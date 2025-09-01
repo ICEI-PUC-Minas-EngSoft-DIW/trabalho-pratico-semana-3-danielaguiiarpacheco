@@ -60,3 +60,28 @@ nav a:hover {
   height: 500px;
   object-fit: cover;
 }
+.card h3 {
+  margin: 0.5rem;
+  color: #e10600;
+}
+
+.card p {
+  margin: 0.5rem;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #e10600;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #b00000;
+}
