@@ -8,17 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Daniel Aguiar Pacheco
+- Matricula: 898379
+- Proposta de projeto escolhida: 4. Coleções e Itens
+- Breve descrição sobre seu projeto: Uma pagina web dedicada as curiosidades e informaçoes sobre o mundo automobilistico.
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![<<  WIREFRAME >>](wireframe-daniel-pacheco.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![MINHA HOMEPAGE](image.png)
