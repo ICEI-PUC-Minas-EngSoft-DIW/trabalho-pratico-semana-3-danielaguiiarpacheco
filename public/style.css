@@ -1,3 +1,27 @@
 body {
-    background-color: aquamarine;
+  margin: 0;
+  font-family: "Orbitron", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+}
+
+header {
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #e10600;
+}
+
+header h1 {
+  color: #e10600;
+  font-size: 1.8rem;
+}
+
+nav a {
+  color: #fff;
+  margin-left: 1rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
